@@ -1,3 +1,3 @@
 # learngit
 implicit none
-program 2001
+program 1001

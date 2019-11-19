@@ -9,5 +9,5 @@ Modify 7th time for test ff VS--no-ff
 and
 Modify 7th time for feature1
 
-
 Add some code for stash test. 8th time
+Modify 8th or 9th time for test stash and fix bug in issue-101

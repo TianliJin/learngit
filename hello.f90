@@ -8,3 +8,5 @@ Modify 6th time for test ff VS--no-ff, due to 4th time failure
 Modify 7th time for test ff VS--no-ff
 and
 Modify 7th time for feature1
+
+Modify 8th or 9th time for test stash and fix bug in issue-101

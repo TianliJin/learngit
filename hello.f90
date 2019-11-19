@@ -8,3 +8,6 @@ Modify 6th time for test ff VS--no-ff, due to 4th time failure
 Modify 7th time for test ff VS--no-ff
 and
 Modify 7th time for feature1
+
+
+Add some code for stash test. 8th time
